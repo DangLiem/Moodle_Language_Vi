@@ -1,0 +1,31 @@
+
+<?php
+$string['assignment:addinstance'] = 'Thêm một nhiệm vụ mới';
+$string['assignment:exportownsubmission'] = 'Xuất trình riêng';
+$string['assignment:exportsubmission'] = 'Trình xuất';
+$string['assignmentneedsupgrade'] = 'Hoạt động "Bài tập 2.2" cũ đã bị xóa.';
+$string['messageprovider:assignment_updates'] = 'Thông báo chuyển nhượng (2.2)';
+$string['assignmentdisabled'] = 'Hoạt động "Bài tập 2.2" cũ bị vô hiệu hóa.';
+$string['page-mod-assignment-x'] = 'Bất kỳ trang mô-đun chuyển nhượng';
+$string['page-mod-assignment-view'] = 'Phân công trang chính mô-đun';
+$string['page-mod-assignment-submissions'] = 'Trang trình mô-đun chuyển nhượng';
+$string['upgradenotification'] = 'Hoạt động này dựa trên một mô-đun phân công cũ.';
+$string['pluginadministration'] = 'Quản lý chuyển nhượng 2.2 (Vô hiệu hóa)';
+$string['privacy:markedsubmissionspath'] = 'đệ trình đánh dấu';
+$string['privacy:submissionpath'] = 'nộp hồ sơ';
+$string['privacy:metadata:assignmentfilter'] = 'Bộ lọc ưu tiên gửi bài tập.';
+$string['privacy:metadata:assignmentperpage'] = 'Số lượng bài tập được hiển thị trên mỗi trang ưu tiên.';
+$string['privacy:metadata:assignmentmailinfo'] = 'Thư ưu tiên thông tin cho bài nộp.';
+$string['privacy:metadata:assignmentquickgrade'] = 'Ưu tiên chấm điểm nhanh để nộp bài tập.';
+$string['privacy:metadata:assignment_submissions'] = 'Bài tập chuyển nhượng liên quan đến một bài tập.';
+$string['privacy:metadata:assignment_submissions:userid'] = 'ID người dùng gửi bài tập chuyển nhượng.';
+$string['privacy:metadata:assignment_submissions:timecreated'] = 'Ngày / giờ tạo của bài nộp.';
+$string['privacy:metadata:assignment_submissions:timemodified'] = 'Ngày / giờ sửa đổi của bài tập chuyển nhượng.';
+$string['privacy:metadata:assignment_submissions:numfiles'] = 'Số lượng tệp tối đa được phép để gửi bài tập.';
+$string['privacy:metadata:assignment_submissions:data1'] = 'Các onlinetext gửi cho bài nộp bài tập.';
+$string['privacy:metadata:assignment_submissions:data2'] = 'Trạng thái được theo dõi để nộp bài tập.';
+$string['privacy:metadata:assignment_submissions:grade'] = 'Giá trị điểm được trao cho bài nộp.';
+$string['privacy:metadata:assignment_submissions:submissioncomment'] = 'Nhận xét gửi kèm theo bài nộp.';
+$string['privacy:metadata:assignment_submissions:teacher'] = 'ID người dùng giáo viên chấm điểm bài tập.';
+$string['privacy:metadata:assignment_submissions:timemarked'] = 'Ngày / thời gian đánh dấu của bài nộp.';
+$string['privacy:metadata:assignment_submissions:mailed'] = 'Trạng thái thông báo được gửi qua thư của bài nộp.';
