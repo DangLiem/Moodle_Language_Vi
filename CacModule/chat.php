@@ -113,3 +113,77 @@ $string['usingchat_help'] = '<p>Mô đun chát bao gồm một số các tính n
 
 </dl>';
 $string['viewreport'] = 'Xem các phiên họp trước';
+
+//edited 18/09/2019
+
+
+$string['activityoverview'] = 'Bạn có phiên trò chuyện sắp tới';
+$string['ajax'] = 'Phiên bản sử dụng Ajax';
+$string['bubble'] = 'Bong bóng';
+$string['composemessage'] = 'Soạn tin nhắn';
+$string['compact'] = 'gọn nhẹ';
+$string['coursetheme'] = 'Chủ đề khóa học';
+$string['generalconfig'] = 'Cấu hình chung';
+$string['chat:addinstance'] = 'Thêm một cuộc trò chuyện mới';
+$string['chat:exportparticipatedsession'] = 'Xuất phiên trò chuyện mà bạn đã tham gia';
+$string['chat:exportsession'] = 'Xuất bất kỳ phiên trò chuyện nào';
+$string['chatreport'] = 'Phiên trò chuyện';
+$string['chat:talk'] = 'Nói chuyện trong một cuộc trò chuyện';
+$string['chat:view'] = 'Xem hoạt động trò chuyện';
+$string['entermessage'] = "Nhập tin nhắn của bạn";
+$string['eventmessagesent'] = 'Tin nhắn đã gửi';
+$string['eventsessionsviewed'] = 'Phiên xem';
+$string['indicator:cognitivedepth'] = 'Trò chuyện nhận thức';
+$string['indicator:cognitivedepth_help'] = 'Chỉ số này dựa trên độ sâu nhận thức mà học sinh đạt được trong hoạt động Trò chuyện.';
+$string['indicator:socialbreadth'] = 'Trò chuyện xã hội';
+$string['indicator:socialbreadth_help'] = 'Chỉ số này dựa trên chiều rộng xã hội mà học sinh đạt được trong một hoạt động Trò chuyện.';
+$string['inputarea'] = 'Khu vực đầu vào';
+$string['invalidid'] = 'Không thể tìm thấy phòng chat đó!';
+$string['list_all_sessions'] = 'Liệt kê tất cả các phiên.';
+$string['list_complete_sessions'] = 'Danh sách chỉ cần hoàn thành phiên.';
+$string['listing_all_sessions'] = 'Liệt kê tất cả các phiên.';
+$string['messageyoubeep'] = 'Bạn bíp {$a}';
+$string['methodajax'] = 'Phương thức Ajax';
+$string['modulename_help'] = 'Mô-đun hoạt động trò chuyện cho phép người tham gia thảo luận đồng bộ theo thời gian thực dựa trên văn bản.
+
+Trò chuyện có thể là một hoạt động một lần hoặc nó có thể được lặp lại cùng một lúc mỗi ngày hoặc mỗi tuần. Phiên trò chuyện được lưu và có thể được cung cấp cho mọi người để xem hoặc giới hạn cho người dùng có khả năng xem nhật ký phiên trò chuyện.
+
+Trò chuyện đặc biệt hữu ích khi trò chuyện nhóm không thể gặp mặt trực tiếp, chẳng hạn như
+
+* Các cuộc họp thường xuyên của sinh viên tham gia các khóa học trực tuyến để cho phép họ chia sẻ kinh nghiệm với những người khác trong cùng một khóa học nhưng ở một địa điểm khác
+* Một học sinh tạm thời không thể tham dự trò chuyện trực tiếp với giáo viên của họ để bắt kịp công việc
+* Học sinh rút kinh nghiệm làm việc cùng nhau để thảo luận về kinh nghiệm của họ với nhau và giáo viên của họ
+*Trẻ nhỏ sử dụng trò chuyện tại nhà vào buổi tối như một lời giới thiệu (được theo dõi) có kiểm soát về thế giới mạng xã hội
+*Một câu hỏi và trả lời với một người được mời ở một địa điểm khác
+* Các phiên để giúp học sinh chuẩn bị cho các bài kiểm tra mà giáo viên hoặc các học sinh khác sẽ đặt ra các câu hỏi mẫu';
+$string['modulename_link'] = 'mod/chat/view';
+$string['no_complete_sessions_found'] = 'Không tìm thấy phiên hoàn chỉnh.';
+$string['notallowenter'] = 'Bạn không được phép vào phòng chat.';
+$string['notlogged'] = 'Bạn không đăng nhập!';
+$string['nopermissiontoseethechatlog'] = 'Bạn không có quyền xem nhật ký trò chuyện.';
+$string['page-mod-chat-x'] = 'Bất kỳ trang mô-đun trò chuyện';
+$string['privacy:metadata:chat_messages_current'] = 'Phiên trò chuyện hiện tại. Dữ liệu này là tạm thời và bị xóa sau khi phiên trò chuyện bị xóa';
+$string['privacy:metadata:chat_users'] = 'Theo dõi những người dùng đang ở trong phòng chat nào';
+$string['privacy:metadata:chat_users:firstping'] = 'Thời gian truy cập đầu tiên vào phòng chat';
+$string['privacy:metadata:chat_users:ip'] = 'IP người dùng';
+$string['privacy:metadata:chat_users:lang'] = 'Ngôn ngữ người dùng';
+$string['privacy:metadata:chat_users:lastmessageping'] = 'Thời gian của tin nhắn cuối cùng trong phòng chat này';
+$string['privacy:metadata:chat_users:lastping'] = 'Thời gian truy cập cuối cùng vào phòng chat';
+$string['privacy:metadata:chat_users:userid'] = 'ID người dùng';
+$string['privacy:metadata:chat_users:version'] = 'Cách người dùng truy cập trò chuyện (sockets/basic/ajax/header_js)';
+$string['privacy:metadata:messages'] = 'Một bản ghi các tin nhắn được gửi trong một phiên trò chuyện';
+$string['privacy:metadata:messages:issystem'] = 'Tin nhắn có phải là tin nhắn do hệ thống tạo không';
+$string['privacy:metadata:messages:message'] = 'Tin nhắn';
+$string['privacy:metadata:messages:timestamp'] = 'Thời điểm tin nhắn được gửi đi.';
+$string['privacy:metadata:messages:userid'] = 'ID người dùng của tác giả của tin nhắn';
+$string['saidto'] = 'nói với';
+$string['search:activity'] = 'Trò chuyện - thông tin hoạt động';
+$string['send'] = 'Gửi';
+$string['sending'] = 'Gửi';
+$string['sessionstart'] = 'Phiên trò chuyện tiếp theo sẽ bắt đầu vào {$a->date}, ({$a->fromnow} từ giờ)';
+$string['strftimemessage'] = '%H:%M';
+$string['studentseereports_help'] = 'Nếu được đặt thành Không, chỉ người dùng mới có mod/chat:readlog khả năng có thể xem nhật ký trò chuyện';
+$string['talk'] = 'Nói chuyện';
+$string['updaterate'] = 'Tốc độ cập nhật:';
+$string['userlist'] = 'Danh sách người dùng';
+
